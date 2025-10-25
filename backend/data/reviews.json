@@ -11,10 +11,37 @@
   {
     "id": 1760621135002,
     "restaurantId": 2,
-    "userName": "TEST",
+    "userName": "สมหญิง สวยงาม",
     "rating": 5,
-    "comment": "TESTTESTTESTTEST",
+    "comment": "อร่อยมากค่ะ ชอบบรรยากาศและการตกแต่งร้าน พนักงานน่ารักมากๆ ค่ะ",
     "visitDate": "2025-10-16",
     "createdAt": "2025-10-16T13:25:35.002Z"
+  },
+  {
+    "id": 1761377426272,
+    "restaurantId": 2,
+    "userName": "weewfsdf",
+    "rating": 5,
+    "comment": "sdfdsfdfdsfsdfdsfdsf",
+    "visitDate": "2025-10-25",
+    "createdAt": "2025-10-25T07:30:26.272Z"
+  },
+  {
+    "id": 1761377736209,
+    "restaurantId": 1,
+    "userName": "จิรกิตติ์ คำป่าตัน",
+    "rating": 5,
+    "comment": "ลำขนาดครับ ชอบแต้ๆ",
+    "visitDate": "2025-10-25",
+    "createdAt": "2025-10-25T07:35:36.209Z"
+  },
+  {
+    "id": 1761377813929,
+    "restaurantId": 2,
+    "userName": "จิรกิตติ์ คำป่าตัน",
+    "rating": 5,
+    "comment": "ก็อร่อยนะครับแต่ผมไม่ค่อยชอบรสชาติแบบนี้",
+    "visitDate": "2025-10-25",
+    "createdAt": "2025-10-25T07:36:53.929Z"
   }
 ]
